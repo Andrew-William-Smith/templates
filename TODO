@@ -1,0 +1,15 @@
++------------------------------------------------------------------------------+
+| STANDARD REPOSITORY TEMPLATE POST-FORK CONFIGURATION                         |
++------------------------------------------------------------------------------+
+| This file contains a checklist of operations that need to be performed after |
+| forking the standard repository template.  These steps are critical for all  |
+| new projects, as they can affect the license terms and other legal           |
+| implications of the forked project.  Once all items below have been          |
+| completed, this file should be deleted from the forked repository.           |
++------------------------------------------------------------------------------+
+
+LICENSE:
+- [ ] Change ${YEAR} to the current year.
+
+TODO:
+- [ ] Delete this file once all other steps have been completed.
