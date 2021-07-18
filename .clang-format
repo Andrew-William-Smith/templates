@@ -1,0 +1,20 @@
+---
+Language: Cpp
+BasedOnStyle: Mozilla
+AlignEscapedNewlines: Left
+AllowShortFunctionsOnASingleLine: None
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+BreakBeforeBinaryOperators: All
+BreakBeforeBraces: WebKit
+BreakBeforeTernaryOperators: true
+ColumnLimit: 120
+IncludeBlocks: Regroup
+IndentWidth: 4
+KeepEmptyLinesAtTheStartOfBlocks: false
+PointerAlignment: Right
+SpaceAfterCStyleCast: true
+TabWidth: 4
+UseTab: Never
+
+...

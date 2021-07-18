@@ -8,7 +8,17 @@
 | completed, this file should be deleted from the forked repository.           |
 +------------------------------------------------------------------------------+
 
+CMakeLists.txt:
+- [ ] Change ${YEAR} to the current year.
+- [ ] Replace all instances of ${PROJECT_NAME} with the name of the project as
+      written in documentation.
+- [ ] Replace all instances of ${PROJECT_UPPER} with the name of the project as
+      written in UPPER_SNAKE_CASE.
+
 LICENSE:
+- [ ] Change ${YEAR} to the current year.
+
+src/CMakeLists.txt:
 - [ ] Change ${YEAR} to the current year.
 
 TODO:
